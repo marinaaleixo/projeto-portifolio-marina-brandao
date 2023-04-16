@@ -133,17 +133,22 @@ li {
     align-items: center;
 }
 
+.icons{
+    color: #fa8072;
+
+}
+
 .lista-rodape li{
     color: #fff ;
-    font-weight: 700 ;
-    font-size: 16px ;
-    margin-bottom: 15px ;
+    font-weight: 650 ;
+    font-size: 15px ;
+    margin-bottom: 10px ;
     display: flex ;
     align-items: center ;
 }
 
 .estilo-icone{
-    font-size: 32px;
+    font-size: 25px;
     margin-right: 10px;
 }
 
@@ -169,7 +174,7 @@ li {
 }
 
 .lista-itens ul li {
-    margin-bottom: 32px;
+    margin-bottom: 30px;
 }
 
 .lista-title{
@@ -248,21 +253,21 @@ li {
 
 @media screen and (max-width: 600px){
     .article-list{
-        margin-top: 10px;
+        margin-top: 100px;
         margin-bottom: 10px;
     }
 }
 
 @media screen and (max-width: 600px){
     .article-lista{
-        margin-top: 10px;
+        margin-top: 100px;
         margin-bottom: 10px;
     }
 }
 
 @media screen and (max-width: 600px){
     .rodape{
-        height: 25vh;
+        height: 28vh;
     }
 }
 
@@ -274,19 +279,19 @@ li {
 
 @media screen and (max-width: 600px){
         .lista-blog{
-        font-size: 17px;
+        font-size: 13px;
     }
 }
 
 @media screen and (max-width: 600px){
     .lista-descricao{
-    font-size: 17px;
+    font-size: 13px;
     }   
 }
 
 @media screen and (max-width: 600px){
     .texto-sobre{
-    font-size: 17px;
+    font-size: 13px;
     }
 }
 
@@ -316,19 +321,19 @@ li {
 
 @media screen and (max-width: 600px){
     .form{
-    height: 90vh;
+    height: 95vh;
     }
 }
 
 @media screen and (max-width: 600px){
     .principal{
-    height: 70vh;
+    height: 75vh;
     }
 }
 
 @media screen and (max-width: 600px){
     .fundo{
-    height: 70vh;
+    height: 75vh;
     }
 }
 
