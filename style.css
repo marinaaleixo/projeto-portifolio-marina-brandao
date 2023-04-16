@@ -1,0 +1,214 @@
+*{
+    margin:  0;
+    padding: 0;
+    outline: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+
+li {
+  list-style: none;
+}
+
+.header-menu{
+    display: flex;
+    position: fixed;
+    width: 100%;
+    height: 40px;
+    padding: 8px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    background-color: #724796;
+}
+
+.header-menu nav{
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+}   
+
+.lista-menu{
+    display: flex;
+    justify-content: space-evenly;
+    width: 50%;
+    align-items: center;
+}
+
+.lista-menu li>a{
+    color: #fff;
+    font-size: 18px;
+    text-decoration: inherit;
+}
+
+.principal{
+    height: 75vh;
+    display: flex;
+    background-color: #eaeaea;
+
+}
+
+.container{
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 75px;
+    max-width: 960px;
+    padding-right: 10px;
+    padding-left: 10px;
+    width: 100%;
+}
+
+.subcontainer-principal{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.nome-completo{
+    font-size: 36px;
+    color: #ff4dbc;
+    font-weight: 700;
+    height: 35px;
+}
+
+.profissão{
+    color: #c6b5d5;
+    height: 45px;
+}
+
+.texto-sobre{
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.article-list{
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.topico-principal{
+    font-size: 36px;
+    color: #ff4dbc;
+
+}
+
+.lista-item{
+    padding: 32px;
+}
+
+.lista-item ul li {
+    margin-bottom: 32px;
+}
+
+.lista-titulo{
+    margin-bottom: 5px;
+    font-size: 22px;
+    color: #661e4b;
+    font-weight: 700;
+}
+
+.lista-local{
+    font-size: 18px;
+    color: #2f80ed;
+}
+
+.lista-descricao {
+    font-size: 18px;
+    margin-top: 5px;
+    line-height: 20px;
+    font-weight: 300;
+    text-align: justify;
+  }
+
+.rodape{
+    background: #724796;
+    height: 30vh ;
+    display: flex ;
+    align-items: center;
+}
+
+.lista-rodape li{
+    color: #fff ;
+    font-weight: 700 ;
+    font-size: 16px ;
+    margin-bottom: 15px ;
+    display: flex ;
+    align-items: center ;
+}
+
+.estilo-icone{
+    font-size: 32px;
+    margin-right: 10px;
+}
+
+.fotinho{
+    width: 200px;
+    height: 300px;
+}
+
+.article-lista{
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.topico-secundario{
+    font-size: 36px;
+    color: #ff4dbc;
+}
+
+.lista-itens{
+    padding: 32px
+}
+
+.lista-itens ul li {
+    margin-bottom: 32px;
+}
+
+.lista-title{
+    margin-bottom: 5px;
+    font-size: 22px;
+    color: #661e4b;
+    font-weight: 700;
+}
+
+.lista-blog{
+    font-size: 18px;
+    margin-top: 5px;
+    line-height: 20px;
+    font-weight: 300;
+    text-align: justify;
+}
+
+.lista-projetos{
+    font-size: 18px;
+    color: #2f80ed;
+}
+
+.fundo{
+    height: 75vh;
+    display: flex;
+    background-color: #eaeaea;
+}
+
+.form{
+    height: 75vh;
+    display: flex;
+    background-color: #fff;
+}
+
+.lista-blog{
+    font-size: 18px;
+    margin-top: 5px;
+    line-height: 20px;
+    font-weight: 300;
+    text-align: justify;
+}
+
