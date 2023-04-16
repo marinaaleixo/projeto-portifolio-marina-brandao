@@ -212,3 +212,123 @@ li {
     text-align: justify;
 }
 
+@media screen and (max-width: 600px){
+    .nome-completo{
+    font-size: 22px;
+    font-weight: 700;
+    height: 30px;
+    }
+}
+
+@media screen and (max-width: 600px){
+    .profissão{
+        height: 18px;
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 600px){
+    .fotinho{
+        width: 100px;
+        height: 150px;
+    }
+}
+
+@media screen and (max-width: 600px){
+    .lista-menu{
+        width: 350px;
+    }
+}
+
+@media screen and (max-width: 600px){
+    .topico-principal{
+        font-size: 22px; 
+    }
+}
+
+@media screen and (max-width: 600px){
+    .article-list{
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+}
+
+@media screen and (max-width: 600px){
+    .article-lista{
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+}
+
+@media screen and (max-width: 600px){
+    .rodape{
+        height: 25vh;
+    }
+}
+
+@media screen and (max-width: 600px){
+    .topico-secundario{
+        font-size: 22px;
+    }
+}
+
+@media screen and (max-width: 600px){
+        .lista-blog{
+        font-size: 17px;
+    }
+}
+
+@media screen and (max-width: 600px){
+    .lista-descricao{
+    font-size: 17px;
+    }   
+}
+
+@media screen and (max-width: 600px){
+    .texto-sobre{
+    font-size: 17px;
+    }
+}
+
+@media screen and (max-width: 600px){
+    .lista-titulo{
+    font-size: 17px;
+    }
+}
+
+@media screen and (max-width: 600px){
+    .lista-local{
+    font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 600px){
+    .lista-title{
+    font-size: 17px;
+    }
+}
+
+@media screen and (max-width: 600px){
+    .lista-projetos{
+    font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 600px){
+    .form{
+    height: 90vh;
+    }
+}
+
+@media screen and (max-width: 600px){
+    .principal{
+    height: 70vh;
+    }
+}
+
+@media screen and (max-width: 600px){
+    .fundo{
+    height: 70vh;
+    }
+}
+
